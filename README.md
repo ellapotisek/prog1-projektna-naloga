@@ -1,6 +1,6 @@
 # prog1-projektna-naloga
 
-##Minerali
+## Minerali
 
 Analizirala bom minerale na spletni strani [Minerals.net](https://www.minerals.net/MineralMain.aspx).
 
